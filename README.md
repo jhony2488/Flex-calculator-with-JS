@@ -3,3 +3,5 @@ Português:Esta e uma aplicação simples de calculo para carro flex , no qual d
 
 English:This is a simple calculation application for a flexible car, without which the result of the two (gasoline or ethanol) and more financially feasible to be placed in the car.
 
+
+![alt text](https://github.com/jhony2488/Flex-calculator-with-JS/blob/master/Calculadora-Flex.gif "Video demonstrativo")
