@@ -183,3 +183,11 @@ body {
         width: 30%;
     }
 }
+
+.modal-body {
+    text-align: center;
+}
+
+.modal-title {
+    text-align: center;
+}
